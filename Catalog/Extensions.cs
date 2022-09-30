@@ -16,6 +16,10 @@ namespace Catalog
                 CreatedDate = item.CreatedDate
             };
         }
+        public static void JustToTest(this string itsasin)
+        {
+            
+        }
 
     }
 }
